@@ -1,0 +1,25 @@
+h1
+{
+ text-align: center;
+ background-color: pink;
+}
+h2
+{
+ font-family: Verdana;
+ font-style: italic;
+ color: blue;
+}
+p
+{
+  font-family: Sim Sun;
+  color: black
+}
+c
+{
+  font-family:Sim Sun;
+  color: red
+}
+body
+{
+  background-color:green;
+  }
